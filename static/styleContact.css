@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Original+Surfer&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Passero+One&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Spectral+SC:wght@600&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@600&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Belleza&display=swap');
+
+#contact-container {
+    height: 100vh;
+}
+
+h1 {
+    text-align: center;
+    line-height: 2;
+    font-family: 'Spectral SC', serif;
+}
+
+.myform {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.myinput {
+    width: 50%;
+    padding: 10px 10px;
+    margin: 10px 10px;
+    border-radius: 5px;
+    border: 1px solid rgb(49 34 172);
+    font-size: 15px;
+    outline: none;
+}
+
+.btn {
+    font-size: 20px;
+    margin: 10px;
+    width: 20%;
+    border-radius: 5px;
+    outline: none;
+    line-height: 2;
+    background-color: #0700c1;
+    font-family: 'Spectral SC', serif;
+    color: white;
+}
